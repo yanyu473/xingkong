@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yanyu473.github.io/xingkong/sitemap.xml
